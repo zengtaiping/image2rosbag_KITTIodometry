@@ -1,6 +1,6 @@
 image2rosbag_KITTIodometry
 ======
-If you don't speak chinese, please [click here](./README_English.md).
+If you don't speak Chinese, please [click here](./README_English.md).
 
 利用python将kitti的数据转为rosbag, 仅测试于grayscale数据集,测试过程如下. 
 python代码请见:
