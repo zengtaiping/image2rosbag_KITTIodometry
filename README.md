@@ -1,6 +1,6 @@
 利用python将kitti的数据转为rosbag, 仅测试于grayscale数据集,测试过程如下. 
 python代码请见:
-http://git.oschina.net/taiping.z.git/image2rosbag_KITTIodometry
+https://github.com/zengtaiping/image2rosbag_KITTIodometry
 
 ###1. 在KITTI网页下载[odometry dataset (grayscale, 22GB)](http://www.cvlibs.net/datasets/kitti/eval_odometry.php), 并解压. 
 
