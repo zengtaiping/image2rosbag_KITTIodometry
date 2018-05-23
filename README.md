@@ -2,13 +2,13 @@
 python代码请见:
 https://github.com/zengtaiping/image2rosbag_KITTIodometry
 
-###1. 在KITTI网页下载[odometry dataset (grayscale, 22GB)](http://www.cvlibs.net/datasets/kitti/eval_odometry.php), 并解压. 
+### 1. 在KITTI网页下载[odometry dataset (grayscale, 22GB)](http://www.cvlibs.net/datasets/kitti/eval_odometry.php), 并解压. 
 
-###2. 指定image路径, 生成的bag名,时间戳路径, 然后运行.
+### 2. 指定image路径, 生成的bag名,时间戳路径, 然后运行.
 ```
 python img2bag_kitti_odo.py /your directory/KITTI/dataset/sequences/00/image_0 kitti_00_l.bag /your directory/KITTI/dataset/sequences/00/times.txt
 ```
-###3. 查看rosbag,并测试结果
+### 3. 查看rosbag,并测试结果
 **查看rosbag**
 ```
 rosbag info image_0 kitti_00_l.bag
