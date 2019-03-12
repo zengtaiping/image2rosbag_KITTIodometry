@@ -1,7 +1,8 @@
 image2rosbag_KITTIodometry
 ======
 We convert KITTI datasets to a rosbag file in Python. Only grayscale datasets have been tested. Detail information can be found in
-http://git.oschina.net/taiping.z.git/image2rosbag_KITTIodometry
+http://git.oschina.net/taiping.z.git/image2rosbag_KITTIodometry If you don't speak English, please [click here](./README_Chinese.md).
+
 
 ### 1. Download KITTI datasets[odometry dataset (grayscale, 22GB)](http://www.cvlibs.net/datasets/kitti/eval_odometry.php), and then unzip
 
